@@ -5,7 +5,7 @@
       <p class="lead">
         Welcome to LyraCMS website based on Codeigniter and Developed by <a href="http://mangosoft.com.mk">Mangosoft</a>.
       </p>
-      <p><a class="btn btn-lg btn-success" href="#" role="button">Download LyraCMS</a></p>
+      <p><a class="btn btn-lg btn-success" href="https://github.com/Leotrin/LyraCMS" role="button">Download LyraCMS</a></p>
     </div>
   </div>
 </div>
