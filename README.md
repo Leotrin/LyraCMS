@@ -1,9 +1,18 @@
-# CodeIgniter 2
-Open Source PHP Framework (originally from EllisLab)
+# LyraCMS version 1
+Based on Open Source PHP Codeigniter Framework (originally from EllisLab)
 
-For more info, please refer to the user-guide at http://www.codeigniter.com/userguide2/  
-(also available within the download package for offline use)
+**HOW TO INSTALL**
+After you download LyraCMS you have to configure the website.
 
-**WARNING:** *CodeIgniter 2.x is no longer under development and only receives security patches until October 31st, 2015.
-Please update your installation to the latest CodeIgniter 3.x version available
-(upgrade instructions [here](http://www.codeigniter.com/userguide3/installation/upgrade_300.html)).*
+First create a database and import file lyraCMS.sql
+
+Go to : /application/config/config.php on Line 25 change the link and put you website link including http://
+Go to : /application/config/database.php  from Linke 51 to 54 change the database configuration with your database settings
+
+After you configure the website you can administrate website from :
+http://yourwebsite/admin and use
+
+username : admin@admin.com
+password : password
+
+**HOW TO CHANGE WEBSITE TEMPLATE:** 
